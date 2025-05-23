@@ -1,0 +1,7 @@
+Repositorio a Github del proyecto:
+
+https://github.com/YoooKai/TangyWebsite.git
+
+Repositorio a Github de la documentación en MKdocs:
+
+https://yoookai.github.io/tfc-docu/
